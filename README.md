@@ -1,5 +1,6 @@
-# project using SQL
-#pizza sales insights
+# Project using SQL
+
+<h1>Pizza Sales Insights</h1>
 
 
 Pizza Sales Data Analysis with MySQL Workbench Welcome to the Pizza Sales Data Analysis project repository! In this project, we leverage the power of MySQL Workbench and SQL queries to analyze pizza sales data and extract valuable insights.
